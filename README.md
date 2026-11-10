@@ -15,7 +15,7 @@ I'm currently exploring how automation and programmability can make networks mor
 
 ### 🛠️ Technologies I'm Exploring
 
-`Python` `Ansible` `Linux` `Git` `REST APIs` `Networking` `Automation` `Cloud`
+`Python` `Ansible` `Linux` `Git` `REST APIs` `Networking` `Automation` `Cloud` `Database Management` `DevOps`
 
 ### 📚 My Goal
 
